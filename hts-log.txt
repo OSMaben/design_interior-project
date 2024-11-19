@@ -1,0 +1,60 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 19 Nov 2024 20:03:21 at https://themes.pixelwars.org/interioz/demo-01/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themes.pixelwars.org/interioz/demo-01/ -O1 "C:\My Web Sites\interioz" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:05:26	Error: 	"Not Found" (404) at link https://themes.pixelwars.org/interioz/demo-01/wp-content/plugins/bdthemes-prime-slider-lite/images/backgrounds/divider-icon.svg (from https://themes.pixelwars.org/interioz/demo-01/wp-content/plugins/bdthemes-prime-slider-lite/assets/css/bdt-uikit.css?ver=3.21.7)
+20:05:26	Error: 	"Not Found" (404) at link https://themes.pixelwars.org/interioz/demo-01/wp-content/plugins/bdthemes-prime-slider-lite/images/backgrounds/list-bullet.svg (from https://themes.pixelwars.org/interioz/demo-01/wp-content/plugins/bdthemes-prime-slider-lite/assets/css/bdt-uikit.css?ver=3.21.7)
+20:05:26	Error: 	"Not Found" (404) at link https://themes.pixelwars.org/interioz/demo-01/wp-content/plugins/bdthemes-prime-slider-lite/images/backgrounds/form-select.svg (from https://themes.pixelwars.org/interioz/demo-01/wp-content/plugins/bdthemes-prime-slider-lite/assets/css/bdt-uikit.css?ver=3.21.7)
+20:05:26	Error: 	"Not Found" (404) at link https://themes.pixelwars.org/interioz/demo-01/wp-content/plugins/bdthemes-prime-slider-lite/images/backgrounds/form-datalist.svg (from https://themes.pixelwars.org/interioz/demo-01/wp-content/plugins/bdthemes-prime-slider-lite/assets/css/bdt-uikit.css?ver=3.21.7)
+20:05:26	Error: 	"Not Found" (404) at link https://themes.pixelwars.org/interioz/demo-01/wp-content/plugins/bdthemes-prime-slider-lite/images/backgrounds/form-radio.svg (from https://themes.pixelwars.org/interioz/demo-01/wp-content/plugins/bdthemes-prime-slider-lite/assets/css/bdt-uikit.css?ver=3.21.7)
+20:05:26	Error: 	"Not Found" (404) at link https://themes.pixelwars.org/interioz/demo-01/wp-content/plugins/bdthemes-prime-slider-lite/images/backgrounds/form-checkbox.svg (from https://themes.pixelwars.org/interioz/demo-01/wp-content/plugins/bdthemes-prime-slider-lite/assets/css/bdt-uikit.css?ver=3.21.7)
+20:05:26	Error: 	"Not Found" (404) at link https://themes.pixelwars.org/interioz/demo-01/wp-content/plugins/bdthemes-prime-slider-lite/images/backgrounds/form-checkbox-indeterminate.svg (from https://themes.pixelwars.org/interioz/demo-01/wp-content/plugins/bdthemes-prime-slider-lite/assets/css/bdt-uikit.css?ver=3.21.7)
+20:05:26	Error: 	"Not Found" (404) at link https://themes.pixelwars.org/interioz/demo-01/wp-content/plugins/pixelwars-core/themes/global/images/bckg/loading.gif (from https://themes.pixelwars.org/interioz/demo-01/wp-content/plugins/pixelwars-core/themes/global/css/shortcodes.css)
+20:05:26	Error: 	"Not Found" (404) at link https://themes.pixelwars.org/interioz/demo-01/wp-content/themes/interioz/js/owl-carousel/owl.video.play.png (from https://themes.pixelwars.org/interioz/demo-01/wp-content/themes/interioz/js/owl-carousel/owl.carousel.css?ver=6.6.2)
+20:05:27	Warning: 	Moved Permanently for https://themes.pixelwars.org/interioz/demo-01/?p=12964
+20:05:27	Warning: 	File has moved from https://themes.pixelwars.org/interioz/demo-01/?p=12964 to https://themes.pixelwars.org/interioz/demo-01/about-us/
+20:05:27	Warning: 	Moved Permanently for https://themes.pixelwars.org/interioz/demo-01/?p=12991
+20:05:27	Warning: 	File has moved from https://themes.pixelwars.org/interioz/demo-01/?p=12991 to https://themes.pixelwars.org/interioz/demo-01/services/
+20:05:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themes.pixelwars.org/interioz/demo-01/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.3 (from https://themes.pixelwars.org/interioz/demo-01/services/)
+20:05:27	Warning: 	Moved Permanently for https://themes.pixelwars.org/interioz/demo-01/?p=13015
+20:05:27	Warning: 	File has moved from https://themes.pixelwars.org/interioz/demo-01/?p=13015 to https://themes.pixelwars.org/interioz/demo-01/portfolio/
+20:05:48	Warning: 	Moved Permanently for https://themes.pixelwars.org/interioz/demo-01/?p=12937
+20:05:48	Warning: 	File has moved from https://themes.pixelwars.org/interioz/demo-01/?p=12937 to https://themes.pixelwars.org/interioz/demo-01/contact/
+20:05:48	Warning: 	Moved Permanently for https://themes.pixelwars.org/interioz/demo-01/?p=5656
+20:05:48	Warning: 	File has moved from https://themes.pixelwars.org/interioz/demo-01/?p=5656 to https://themes.pixelwars.org/interioz/demo-01/architectural-heritage/
+20:05:48	Warning: 	Moved Permanently for https://themes.pixelwars.org/interioz/demo-01/?p=5654
+20:05:48	Warning: 	File has moved from https://themes.pixelwars.org/interioz/demo-01/?p=5654 to https://themes.pixelwars.org/interioz/demo-01/iconic-skyscrapers-redefining-city-skylines-across-the-globe/
+20:05:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themes.pixelwars.org/interioz/demo-01/wp-content/uploads/sites/2/2024/07/Modern-take-on-bali-inspired-small-apartment-white-copy-300x300.jpg (from https://themes.pixelwars.org/interioz/demo-01/iconic-skyscrapers-redefining-city-skylines-across-the-globe/)
+20:05:48	Warning: 	Moved Permanently for https://themes.pixelwars.org/interioz/demo-01/?p=5652
+20:05:48	Warning: 	File has moved from https://themes.pixelwars.org/interioz/demo-01/?p=5652 to https://themes.pixelwars.org/interioz/demo-01/smart-cities-of-tomorrow/
+20:05:48	Error: 	"Not Found" (404) at link https://themes.pixelwars.org/interioz/demo-01/portfolio/rustic-elegance-cabin/feed/ (from https://themes.pixelwars.org/interioz/demo-01/portfolio/rustic-elegance-cabin/)
+20:05:48	Warning: 	Moved Permanently for https://themes.pixelwars.org/interioz/demo-01/?p=14461
+20:05:48	Warning: 	File has moved from https://themes.pixelwars.org/interioz/demo-01/?p=14461 to https://themes.pixelwars.org/interioz/demo-01/portfolio/rustic-elegance-cabin/
+20:05:48	Error: 	"Not Found" (404) at link https://themes.pixelwars.org/interioz/demo-01/portfolio/spring-blossom-cottage/feed/ (from https://themes.pixelwars.org/interioz/demo-01/portfolio/spring-blossom-cottage/)
+20:05:48	Warning: 	Moved Permanently for https://themes.pixelwars.org/interioz/demo-01/?p=14459
+20:05:48	Warning: 	File has moved from https://themes.pixelwars.org/interioz/demo-01/?p=14459 to https://themes.pixelwars.org/interioz/demo-01/portfolio/spring-blossom-cottage/
+20:05:48	Error: 	"Not Found" (404) at link https://themes.pixelwars.org/interioz/demo-01/portfolio/urban-chic-loft/feed/ (from https://themes.pixelwars.org/interioz/demo-01/portfolio/urban-chic-loft/)
+20:05:48	Warning: 	Moved Permanently for https://themes.pixelwars.org/interioz/demo-01/?p=14284
+20:05:48	Warning: 	File has moved from https://themes.pixelwars.org/interioz/demo-01/?p=14284 to https://themes.pixelwars.org/interioz/demo-01/portfolio/urban-chic-loft/
+20:05:48	Error: 	"Not Found" (404) at link https://themes.pixelwars.org/interioz/demo-01/portfolio/coastal-chic-retrat/feed/ (from https://themes.pixelwars.org/interioz/demo-01/portfolio/coastal-chic-retrat/)
+20:05:49	Warning: 	Moved Permanently for https://themes.pixelwars.org/interioz/demo-01/?p=14282
+20:05:49	Warning: 	File has moved from https://themes.pixelwars.org/interioz/demo-01/?p=14282 to https://themes.pixelwars.org/interioz/demo-01/portfolio/coastal-chic-retrat/
+20:05:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themes.pixelwars.org/interioz/demo-01/wp-content/uploads/sites/2/2024/07/stylish-composition-cozy-living-room-interior-with-copy-space-lot-plants-cacti-wooden-cubes-sofa-accessories-beige-wall-carpet-floor-plants-love-concept-template.jpg (from https://themes.pixelwars.org/interioz/demo-01/portfolio/coastal-chic-retrat/)
+20:05:51	Error: 	"Not Found" (404) at link https://themes.pixelwars.org/interioz/demo-01/portfolio/serene-coastal-retreat/feed/ (from https://themes.pixelwars.org/interioz/demo-01/portfolio/serene-coastal-retreat/)
+20:05:51	Warning: 	Moved Permanently for https://themes.pixelwars.org/interioz/demo-01/?p=10458
+20:05:51	Warning: 	File has moved from https://themes.pixelwars.org/interioz/demo-01/?p=10458 to https://themes.pixelwars.org/interioz/demo-01/portfolio/serene-coastal-retreat/
+20:05:51	Warning: 	Moved Permanently for https://themes.pixelwars.org/interioz/demo-01/?p=10456
+20:05:51	Warning: 	File has moved from https://themes.pixelwars.org/interioz/demo-01/?p=10456 to https://themes.pixelwars.org/interioz/demo-01/portfolio/elegant-urban-loft/
+20:05:51	Warning: 	Moved Permanently for https://themes.pixelwars.org/interioz/demo-01/?p=5632
+20:05:51	Warning: 	File has moved from https://themes.pixelwars.org/interioz/demo-01/?p=5632 to https://themes.pixelwars.org/interioz/demo-01/architectural-marvels/
+20:05:51	Warning: 	Moved Permanently for https://themes.pixelwars.org/interioz/demo-01/?p=5493
+20:05:51	Warning: 	File has moved from https://themes.pixelwars.org/interioz/demo-01/?p=5493 to https://themes.pixelwars.org/interioz/demo-01/exploring-the-evolution-of-modern-architecture/
+20:05:51	Warning: 	Moved Permanently for https://themes.pixelwars.org/interioz/demo-01/?p=7197
+20:05:51	Warning: 	File has moved from https://themes.pixelwars.org/interioz/demo-01/?p=7197 to https://themes.pixelwars.org/interioz/demo-01/the-evolution-of-modern-architecture/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 30 seconds : 388 links scanned, 354 files written (36901678 bytes overall) [32822907 bytes received at 218819 bytes/sec], 5628026 bytes transferred using HTTP compression in 152 files, ratio 20%, 15.5 requests per connection
+(14 errors, 35 warnings, 0 messages)
